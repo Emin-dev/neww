@@ -102,6 +102,9 @@ header .menu nav .homecolor {
   line-height: 1.4;
 }
 
+#menu {
+  background-color: #def3fa;
+}
 #menu .textbox {
   width: 550px;
 }
@@ -132,9 +135,12 @@ header .menu nav .homecolor {
   display: flex;
   align-items: center;
   margin: 30px 0;
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
 }
 #menu .box .imgbox {
-  width: 150px;
+  width: 200px;
   border-radius: 10px;
 }
 #menu .box .textbox {
@@ -177,15 +183,6 @@ header .menu nav .homecolor {
 
 #checkout {
   padding-top: 100px;
-}
-#checkout .imgbox {
-  position: relative;
-}
-#checkout .imgbox .pattern {
-  position: absolute;
-  top: -140px;
-  right: 256px;
-  width: 345px;
 }
 #checkout .textbox h1 {
   font-size: 60px;
