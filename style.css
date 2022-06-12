@@ -175,6 +175,8 @@ header .menu nav .homecolor {
   color: white;
   padding: 7px 20px;
   margin: auto;
+  border-radius: 10px;
+  border: none;
 }
 #menu .big {
   margin-top: 40px;
